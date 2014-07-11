@@ -19,6 +19,7 @@
 		<r:layoutResources />
 	</head>
 	<body>
+	        <h1> <a href="index.gsp">Home </a></h1>
 		<div id="grailsLogo" role="banner"><a href="http://grails.org"><img src="${resource(dir: 'images', file: 'grails_logo.png')}" alt="Grails"/></a></div>
 		<g:layoutBody/>
 		<div class="footer" role="contentinfo"></div>
